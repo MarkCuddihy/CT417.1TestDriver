@@ -8,7 +8,7 @@
   <repositories>
 		<repository>
         <id>mvn-repo</id>
-        <url>https://raw.github.com/MarkCuddihy/mvn-repo/CT417.1</url>
+        <url>https://raw.githubusercontent.com/MarkCuddihy/mvn-repo/CT417.1</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
