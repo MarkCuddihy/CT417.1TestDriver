@@ -7,15 +7,19 @@
   <description>CT417.1TestDriver</description>
   <repositories>
 		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
+        <id>mvn-repo</id>
+        <url>https://raw.github.com/MarkCuddihy/mvn-repo/CT417.1</url>
+        <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>always</updatePolicy>
+        </snapshots>
+    </repository>
 	</repositories>
   <dependencies>
 	  <dependency>
-	    <groupId>com.github.MarkCuddihy</groupId>
+	    <groupId>MarkCuddihy</groupId>
 	    <artifactId>CT417.1</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>0.0.1-SNAPSHOT</version>
 	</dependency>
   </dependencies>
 </project>
