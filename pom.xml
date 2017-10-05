@@ -6,14 +6,10 @@
   <name>CT417.1TestDriver</name>
   <description>CT417.1TestDriver</description>
   <repositories>
-		<repository>
-        <id>mvn-repo</id>
-        <url>https://raw.githubusercontent.com/MarkCuddihy/mvn-repo/CT417.1</url>
-        <snapshots>
-            <enabled>true</enabled>
-            <updatePolicy>always</updatePolicy>
-        </snapshots>
-    </repository>
+        <repository>
+            <id>myMavenRepo.read</id>
+            <url>https://mymavenrepo.com/repo/8cwwrKYBTJdc746UBvPc/</url>
+        </repository>
 	</repositories>
   <dependencies>
 	  <dependency>
